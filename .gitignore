@@ -1,0 +1,9 @@
+
+*.csv
+*.tar
+*.tar.gz
+*.gz
+*.h5
+*.zip
+
+*/resources/
