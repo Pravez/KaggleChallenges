@@ -7,3 +7,7 @@
 *.zip
 
 */resources/
+
+proteins/res/test/
+proteins/res/train/
+proteins/res/logs/
